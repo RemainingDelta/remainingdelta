@@ -1,16 +1,22 @@
-## Hi there 👋
+## Welcome!
 
-<!--
-**RemainingDelta/remainingdelta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Shiven Ajwaliya, a CS student at Northeastern University who loves learning new things and traveling. I’m passionate about building meaningful tech products, exploring different cultures, and discovering new places through local food and history.
 
-Here are some ideas to get you started:
+[My LinkedIn](https://www.linkedin.com/in/shiven-ajwaliya/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> This is my first commit
+## Languages
+- Python
+- Java
+- C
+- TypeScript
+- JavaScript
+- SQL
+
+## Frameworks/Tools
+- Node.js
+- React.js
+- Flask
+- MongoDb
+- Prisma
+- VS Code
+- GitHub
