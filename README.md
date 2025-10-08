@@ -6,7 +6,8 @@ I’m a Computer Science student at Northeastern University who’s passionate a
 
 ## 🧑‍💻 Technologies & Tools  
 - **Languages:** Python, JavaScript/TypeScript, Java, SQL, C, HTML, CSS  
-- **Frameworks/Tools:** Node.js/Express.js, React, Prisma, Flask, Docker, JUnit, Vitest, Git  
+- **Frameworks/Tools:** Node.js/Express.js, React, Prisma, Flask, Docker, JUnit, Vitest, Git, Postman
+- 
 - **Databases:** PostgreSQL, MongoDB  
 
 ---
