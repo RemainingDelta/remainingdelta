@@ -66,6 +66,6 @@ I’m a Computer Science student at Northeastern University who’s passionate a
 ---
 
 ## 📬 Reach Me  
-- [**LinkedIn**](https://linkedin.com/in/shiven-ajwaliya)  
-- [**Portfolio**](https://remainingdelta.github.io)    
-- **Email:** ajwaliya.s@northeastern.edu  
+![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff) https://linkedin.com/in/shiven-ajwaliya   
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white) https://remainingdelta.github.io   
+![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)   ajwaliya.s@northeastern.edu  
