@@ -41,9 +41,9 @@ I’m a Computer Science student at Northeastern University who’s passionate a
 - Supporting hundreds of tutoring sessions with real-time updates.  
 
 **Care Compass – Data Modeling & Forecasting 🌍** *(May 2025 – Jun 2025)*  
-- Developed SQL data model integrating 7+ datasets for 190+ countries.  
-- Built regression models predicting health trends up to 2045.  
-- Designed a recommender system for relocation decisions based on healthcare priorities.  
+- Designed SQL data model integrating 7+ datasets for 190+ countries.  
+- Assisted in developing regression models predicting health trends up to 2045.  
+- Contributed to building a recommender system for relocation decisions based on healthcare priorities.  
 
 **CoDesign – Developer Collaboration Platform 🤝** *(Jan 2025 – Mar 2025)*  
 - Built Flask + MongoDB platform for matching developers/designers by skills and interests.  
