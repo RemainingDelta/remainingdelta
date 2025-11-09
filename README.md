@@ -14,6 +14,15 @@ I’m a Computer Science student at Northeastern University who’s passionate a
 
 ---
 
+
+---
+
+## 📝 Currently Learning  
+  
+- **Frameworks/Tools:** ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
 ## 💼 Work Experience  
 
 **Khoury College - Teaching Assistant for CS2000** *(Aug 2025 → Now)*  
