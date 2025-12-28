@@ -44,6 +44,11 @@ I’m a Computer Science student at Northeastern University who’s passionate a
 
 ## 🚀 Projects  
 
+**Remaining7 Discord Bot – Discord Economy & Gacha Engine 🤖** *(Sep 2025 – Present)*  
+- Architected a `discord.py` + MongoDB bot for a 15k+ member community, featuring a persistent token economy with automated budget enforcement.  
+- Engineered a complex "Brawl Stars" gacha minigame with weighted RNG, dynamic inventory tracking, and resource-based leveling.  
+- Streamlined tournament operations with real-time queue dashboards, automated ticketing, and staff payout ledgers.
+
 **Rainfall Learning – Tech Lead 🌧️** *(Jun 2025 → Now)*  
 - Leading 3-person engineering team + code reviews across 16+ contributors.  
 - Built tutoring session services (booking, rescheduling, cancellations) with Google Calendar sync.  
@@ -70,7 +75,7 @@ I’m a Computer Science student at Northeastern University who’s passionate a
 
 ## 📊 GitHub Stats  
 ![](https://nirzak-streak-stats.vercel.app/?user=RemainingDelta&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=remainingdelta&theme=dark&hide_border=false&layout=compact&hide=Jupyter%20Notebook)  
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remainingdelta&theme=dark&hide_border=false&layout=compact&hide=Jupyter%20Notebook)
 
 ---
 
