@@ -25,12 +25,12 @@ I’m a Computer Science student at Northeastern University who’s passionate a
 
 ## 💼 Work Experience  
 
-**Khoury College - Teaching Assistant for CS2000** *(Aug 2025 → Now)*  
+**Khoury College - Teaching Assistant for CS2000** *(Aug 2025 → Dec 2025)*  
 - Led weekly labs for 30+ students in a 600+ student foundational CS course.  
 - Delivered lessons on recursion, data structures, and function design in Python.  
 - Provided office-hour support and graded 300+ assignments.  
 
-**Quak Travel – Software Engineer ✈️** *(Apr 2025 → Now)*  
+**Quak Travel – Software Engineer ✈️** *(Apr 2025 → Feb 2026)*  
 - Built a trip recommendation system using OpenAI embeddings + Pinecone over 2,000+ TikTok trips.  
 - Developed scalable backend integrating APIs (Google Places, OpenWeather) with caching/logging/monitoring.  
 - Demo helped secure **$30K in funding** to grow the product.  
