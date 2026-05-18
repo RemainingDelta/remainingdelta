@@ -29,7 +29,7 @@ I’m a Computer Science student at Northeastern University who’s passionate a
 - Built a **backward scheduling engine** integrated into the material planner that computes procurement deadlines across **multi-level bills of materials**, replacing manual spreadsheet planning for **250+ users** on the operations team
 - Deployed a dev **AWS** environment from scratch using Terraform across **18 modules** (ECS Fargate, RDS, Cognito) and built a three-tier **CI/CD pipeline** with GitHub Actions with automated database reseeding  
 
-**Quak Travel – Software Engineer ** *(Apr 2025 → Feb 2026)*  
+**Quak Travel – Software Engineer** *(Apr 2025 → Feb 2026)*  
 - Built a trip recommendation system using OpenAI embeddings + Pinecone over 2,000+ TikTok trips  
 - Developed scalable backend integrating APIs (Google Places, OpenWeather) with caching/logging/monitoring
 - Demo helped secure **$140K in funding** to grow the product  
