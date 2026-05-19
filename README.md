@@ -24,10 +24,10 @@ I’m a Computer Science student at Northeastern University who’s passionate a
 
 ## 💼 Work Experience  
 
-**NExT Consulting | Software Engineering Co-op** *(Jan 2026 → April 2026)*  
-- Managing and shipping **13 releases** as release manager for a client's **warehouse management system** (React/TypeScript, FastAPI, PostgreSQL) while conducting code reviews for a **5-person team**
+**Via Separations | Software Engineering Co-op** *(Jan 2026 → April 2026)*  
+- Managed and shipped **13 releases** as release manager for a client's **warehouse management system** via React/TypeScript, FastAPI, and PostgreSQL while conducting code reviews for a **5-person team**
 - Built a **backward scheduling engine** integrated into the material planner that computes procurement deadlines across **multi-level bills of materials**, replacing manual spreadsheet planning for **250+ users** on the operations team
-- Deployed a dev **AWS** environment from scratch using Terraform across **18 modules** (ECS Fargate, RDS, Cognito) and built a three-tier **CI/CD pipeline** with GitHub Actions with automated database reseeding  
+- Deployed a dev **AWS** environment from scratch using Terraform across **18 modules** via ECS Fargate, RDS, and Cognito and built a three-tier **CI/CD pipeline** with GitHub Actions with automated database reseeding
 
 **Quak Travel – Software Engineer** *(Apr 2025 → Feb 2026)*  
 - Built a trip recommendation system using OpenAI embeddings + Pinecone over 2,000+ TikTok trips  
